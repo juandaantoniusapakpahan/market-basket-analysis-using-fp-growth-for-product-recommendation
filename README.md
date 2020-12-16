@@ -61,7 +61,7 @@ memberikan pengetahuan mengenai karakteristik dari customer berdasarkan transaks
 telah dilakukan sebelumnya untuk membuat keputusan yang tepat.
 
 ## Data Understanding 
-a. Collect Initial Data /b
+a. Collect Initial Data 
 
 b. Describe Data
 
