@@ -72,15 +72,15 @@ d. Verify Data Quality
 Pada proyek ini, dataset yang digunakan yaitu, dataset yang berisi data transaksi pada sebuah supermarket XYZ yang diperoleh melalui bigml.com. Website tersebut merupakan portal penyedia dataset yang dikembangkan oleh BigMl,Inc. 
 
 Berikut adalah link datasetnya:
-https://bigml.com/dashboard/dataset/5fbdd95e2fb31c516b0031d1
+https://bigml.com/user/czuriaga/gallery/dataset/5a7a2e4392fb563c2d000cef
 
-Terdiri dari 3,346,083 transaksi
+Terdiri dari 131.209 transaksi
 
-Total row : 1.048.575
+Total row : 131.210 with header
 
-from 206,209 different users
+from 131,209 different users
 
-33,819,106 products bought (49,685 different products)
+1,384,617 products bought (39,123 different products)
 
 Terdiri dari 7 feature:
 
@@ -96,4 +96,4 @@ Terdiri dari 7 feature:
 
 • days_since_prior_order: Number of days since the previous order of the same user
 
-• products: List of products bought in the orde
+• products: List of products bought in the orders
